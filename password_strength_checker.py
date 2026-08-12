@@ -1,16 +1,3 @@
-"""
-DecodeLabs Industrial Training Kit — Cyber Security
-Project 1: Password Strength Checker
-
-Goal:
-    Evaluate a password and classify it as Weak, Medium, or Strong
-    based on length and character variety (uppercase, digits, symbols).
-
-Key skills demonstrated:
-    - String handling
-    - Conditional logic
-    - Basic security awareness (common password / entropy checks)
-"""
 
 import string
 
